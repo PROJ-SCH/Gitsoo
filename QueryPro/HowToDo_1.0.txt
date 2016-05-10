@@ -13,4 +13,4 @@ main：监听服务器2，建立连接后，接收询问字符串，进行[处�
 通过空格分割的只包含字母和数字的字符串。
 
 返回结果格式：
-URL,Title
+URL,Title;URL,Title;URL,Title;
